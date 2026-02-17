@@ -1,0 +1,27 @@
+[
+  {
+    "name": "",
+    "size": "",
+    "price": "",
+    "category": "",
+    "brand": "",
+    "layout": [""],
+    "features": [],
+    "links": [
+      { "shop": "", "url": ""}
+    ]
+  },
+  {
+    "name": "",
+    "size": "",
+    "price": "",
+    "category": "",
+    "brand": "",
+    "layout": [""],
+    "features": [],
+    "links": [
+      { "shop": "", "url": ""},
+      { "shop": "", "url": ""}
+    ]
+  }
+]

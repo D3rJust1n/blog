@@ -1,0 +1,26 @@
+[
+  {
+    "name": "GMK67",
+    "size": "60%",
+    "price": "0-60€",
+    "category": "barebone",
+    "brand": "Zuoya",
+    "layout": ["ANSI"],
+    "features": [],
+    "links": [
+      { "shop": "AliExpress", "url": "https://de.aliexpress.com/item/1005009745888089.html" }
+    ]
+  },
+  {
+    "name": "Neo65 Core Plus",
+    "size": "60%",
+    "price": "170-200€",
+    "category": "barebone",
+    "brand": "Qwertykeys",
+    "layout": ["ISO", "ANSI"],
+    "features": ["VIA"],
+    "links": [
+      { "shop": "Monacokeys", "url": "https://monacokeys.de/products/neo65-core-plus-65-iso-ansi-mechanical-aluminium-custom-keyboard-kit-preorder"}
+    ]
+  }
+]

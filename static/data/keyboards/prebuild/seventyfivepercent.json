@@ -1,0 +1,39 @@
+[
+  {
+    "name": "F75",
+    "size": "75%",
+    "price": "60-100€",
+    "category": "prebuild",
+    "brand": "Aula",
+    "layout": ["ISO", "ANSI"],
+    "features": [],
+    "links": [
+      { "shop": "Epomaker", "url": "https://epomaker.de/de/products/epomaker-aula-f75"}
+    ]
+  },
+  {
+    "name": "5075B Plus",
+    "size": "75%",
+    "price": "60-100€",
+    "category": "prebuild",
+    "brand": "Akko",
+    "layout": ["ISO"],
+    "features": ["VIA"],
+    "links": [
+      { "shop": "AliExpress", "url": "https://s.click.aliexpress.com/e/_olkteEf"}
+    ]
+  },
+  {
+    "name": "AL80",
+    "size": "75%",
+    "price": "60-100€",
+    "category": "prebuild",
+    "brand": "Yunzii",
+    "layout": "ANSI",
+    "features": ["VIA"],
+    "links": [
+      { "shop": "Amazon", "url": "https://amzn.to/4myIZeA"},
+      { "shop": "Yunzii", "url": "https://www.yunzii.com/products/yunzii-al80-qmk-via-aluminum-lcd-mechanical-keyboard?aff=12"}
+    ]
+  }
+]

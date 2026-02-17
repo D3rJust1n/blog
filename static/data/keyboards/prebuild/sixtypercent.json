@@ -1,0 +1,38 @@
+[
+  {
+    "name": "N60 Nova",
+    "size": "60%",
+    "price": "0-60€",
+    "category": "prebuild",
+    "brand": "Ranked",
+    "layout": ["ANSI"],
+    "features": [],
+    "links": [
+      { "shop": "Amazon", "url": "https://www.amazon.de/dp/B09Y4L4HHQ" }
+    ]
+  },
+  {
+    "name": "QK61 V2",
+    "size": "60%",
+    "price": "60-100€",
+    "category": "prebuild",
+    "brand": "Cidoo",
+    "layout": ["ANSI"],
+    "features": ["VIA"],
+    "links": [
+      { "shop": "Epomaker", "url": "https://epomaker.com/products/cidoo-qk61-v2"}
+    ]
+  },
+  {
+    "name": "V4 Max",
+    "size": "60%",
+    "price": "60-100€",
+    "category": "prebuild",
+    "brand": "Keychron",
+    "layout": ["ANSI"],
+    "features": ["VIA"],
+    "links": [
+      { "shop": "Keychron", "url": "https://www.keychron.com/products/keychron-v4-max-qmk-via-wireless-custom-mechanical-keyboard"}
+    ]
+  }
+]
